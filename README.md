@@ -7,5 +7,6 @@ In this implementation,i created a neural network to recognize a handwritten dig
 The neural network used is Sequential Model - Sequence models are basically the models in machine learning that analyze input sequences and produce output sequences of data.
 
 The MNIST dataset:
+
 This is probably one of the most popular datasets among machine learning and deep learning enthusiasts. The MNIST dataset contains 60,000 training images of handwritten digits from zero to nine and 10,000 images for testing. So, the MNIST dataset has 10 different classes. The handwritten digits images are represented as a 28×28 matrix where each cell contains grayscale pixel value.
 
